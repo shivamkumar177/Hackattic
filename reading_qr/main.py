@@ -2,7 +2,7 @@ import cv2
 import requests, json
 from PIL import Image
 import io
-import numpy as np
+import numpy as np 
 
 if __name__ == "__main__":
     image = (requests.get("https://hackattic.com/challenges/reading_qr/problem?access_token=89e09ce7719984fb").json())['image_url']
