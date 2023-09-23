@@ -1,0 +1,3 @@
+.env
+pg_dump.dump
+output.txt
