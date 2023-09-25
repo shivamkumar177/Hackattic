@@ -1,3 +1,2 @@
+__pycache__
 .env
-pg_dump.dump
-output.txt
