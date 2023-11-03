@@ -1,1 +1,1 @@
-Print(This us test)
+print("This us test")
